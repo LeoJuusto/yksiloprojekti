@@ -58,8 +58,6 @@
   <ItemGroup>
     <Compile Include="Assets\Course Library\Scripts\MoveLeft.cs" />
     <Compile Include="Assets\Course Library\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Course Library\Scripts\SpawnManager.cs" />
-    <Compile Include="Assets\Course Library\Scripts\RepeatBackround.cs" />
     <Compile Include="Assets\Course Library\Scripts\Test.cs" />
   </ItemGroup>
   <ItemGroup>
