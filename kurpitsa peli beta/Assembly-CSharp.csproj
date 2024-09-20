@@ -59,6 +59,7 @@
     <Compile Include="Assets\Course Library\Scripts\MoveLeft.cs" />
     <Compile Include="Assets\Course Library\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Course Library\Scripts\Test.cs" />
+    <Compile Include="Assets\Course Library\Scripts\SpawnManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\kamat\Materials\UnlitVertexColour_Alpha.shader" />
